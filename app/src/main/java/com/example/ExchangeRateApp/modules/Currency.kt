@@ -1,4 +1,4 @@
-package com.example.odev_5.modules
+package com.example.ExchangeRateApp.modules
 
 data class Currency (
     val Isim: String,

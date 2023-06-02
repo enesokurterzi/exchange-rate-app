@@ -1,4 +1,4 @@
-package com.example.odev_5
+package com.example.ExchangeRateApp
 
 import org.junit.Test
 

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.odev_5'
+    namespace 'com.example.ExchangeRateApp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.odev_5"
+        applicationId "com.example.ExchangeRateApp"
         minSdk 24
         targetSdk 33
         versionCode 1
@@ -30,6 +30,11 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+
+    buildFeatures {
+        viewBinding true
+    }
+
 }
 
 dependencies {

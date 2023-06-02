@@ -1,4 +1,4 @@
-package com.example.odev_5
+package com.example.ExchangeRateApp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

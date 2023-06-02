@@ -1,7 +1,7 @@
-package com.example.odev_5.services
+package com.example.ExchangeRateApp.services
 
 import android.util.Log
-import com.example.odev_5.modules.Currency
+import com.example.ExchangeRateApp.modules.Currency
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.select.Elements
