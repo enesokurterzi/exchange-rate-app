@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Odev-5</string>
+    <string name="serbest_piyasa_alış">Serbest Piyasa Alış:</string>
+    <string name="serbest_piyasa_satış">Serbest Piyasa Satış:</string>
+    <string name="banka_alış">Banka Alış:</string>
+    <string name="banka_satış">Banka Satış:</string>
+    <string name="default_value">0.00</string>
+    <string name="döviz_kuru_sec">Döviz Kuru Seç</string>
+    <string name="merkez_bankası">Merkez Bankası</string>
+</resources>
