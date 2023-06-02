@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Odev-5</string>
+    <string name="app_name">ExchangeRateApp</string>
     <string name="serbest_piyasa_alış">Serbest Piyasa Alış:</string>
     <string name="serbest_piyasa_satış">Serbest Piyasa Satış:</string>
     <string name="banka_alış">Banka Alış:</string>
